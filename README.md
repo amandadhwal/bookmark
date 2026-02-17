@@ -7,7 +7,7 @@ This app allows users to securely log in with Google and manage their personal b
 
 ## 🚀 Live Demo
 
-🔗 https://bookmarkapp-indol.vercel.app
+🔗 https://bookmarkauto.vercel.app/
 
 ---
 
